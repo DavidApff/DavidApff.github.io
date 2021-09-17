@@ -1,0 +1,2487 @@
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 812px)
+and (-webkit-device-pixel-ratio : 3) 
+and (orientation : landscape) {
+  .html-embed {
+    padding: 0px;
+  }
+
+  .button-3 {
+    left: 0px;
+    top: 49px;
+    width: 60px;
+    height: 60px;
+  }
+
+  .button-4 {
+    left: 0px;
+    top: -18px;
+    width: 60px;
+    height: 60px;
+  }
+
+  .matselector.orange-button {
+    left: 104px;
+    top: 6px;
+    width: 30px;
+    height: 30px;
+    margin-left: 0px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  }
+
+  .matselector.black-button {
+    left: -24px;
+    top: 5px;
+    width: 30px;
+    height: 30px;
+    background-size: 100% 100%;
+  }
+
+  .matselector.blue-button {
+    left: -6px;
+    top: -3px;
+    width: 30px;
+    height: 30px;
+    background-size: 100% 100%;
+  }
+
+  .matselector.green-button {
+    left: 0px;
+    top: 1px;
+    width: 30px;
+    height: 30px;
+    margin-top: 3px;
+    margin-left: 5px;
+    background-size: 100% 100%;
+  }
+
+  .dropdown-wrapper {
+    overflow: visible;
+    width: 90px;
+    height: 70px;
+    margin-top: 0px;
+    margin-left: 8px;
+  }
+
+  .dropdown-trigger {
+    padding: 2px;
+  }
+
+  .text-block {
+    font-size: 9px;
+  }
+
+  .dropdown-content {
+    height: 50px;
+  }
+
+  .dropdown-button._1 {
+    padding: 2px;
+    font-size: 10px;
+    line-height: 13px;
+  }
+
+  .dropdown-button._2 {
+    padding: 2px;
+    font-size: 10px;
+    line-height: 13px;
+  }
+
+  .dropdown-wrapper3 {
+    width: 90px;
+    height: 70px;
+    margin-top: 166px;
+    margin-left: 8px;
+  }
+
+  .dropdown-trigger3 {
+    font-size: 10px;
+  }
+
+  .text-block-3 {
+    padding: 1px;
+    font-size: 9px;
+  }
+
+  .dropdown-content3 {
+    height: 65px;
+  }
+
+  .dropdown-button3 {
+    height: auto;
+    padding: 0px;
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .dropdown-button3.casqueoption_button {
+    display: block;
+    height: auto;
+    padding: 2px;
+  }
+
+  .dropdown-button3.protectnuque_button {
+    display: block;
+    padding: 2px;
+  }
+
+  .dropdown-button3.reflect_button {
+    display: block;
+    padding: 2px;
+  }
+
+  .dropdown-wrapper2 {
+    width: 90px;
+    height: 60px;
+    margin-top: 100px;
+    margin-left: 8px;
+  }
+
+  .dropdown-trigger2 {
+    padding: 1px;
+  }
+
+  .text-block-4 {
+    font-size: 8px;
+    line-height: 10px;
+  }
+
+  .dropdown-content2 {
+    height: 40px;
+  }
+
+  .dropdown-button2 {
+    height: 20%;
+    font-size: 10px;
+  }
+
+  .dropdown-button2.lampestd {
+    height: auto;
+    padding: 2px;
+  }
+
+  .dropdown-button2.lampedetect {
+    height: auto;
+    padding: 2px;
+  }
+
+  .text-block-5 {
+    position: static;
+    margin-top: 0px;
+    margin-left: 0px;
+    float: none;
+    font-size: 10px;
+    line-height: 10px;
+    font-weight: 300;
+  }
+
+  .div-block-6 {
+    width: 90px;
+    height: 25px;
+    margin-top: 71px;
+    margin-left: 8px;
+    padding: 2px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .div-block-7 {
+    width: 57px;
+    height: 18px;
+    margin-top: 17px;
+    margin-left: 90px;
+  }
+
+  .text-block-6 {
+    width: 60px;
+    margin-top: -4px;
+    margin-left: -3px;
+    padding: 0px;
+    font-size: 9px;
+    line-height: 8px;
+    text-align: left;
+  }
+
+  .info_button {
+    left: 85px;
+    top: 80px;
+    width: 38px;
+    height: 38px;
+    margin-right: 0px;
+    background-size: 100% 100%;
+  }
+
+  .div-block-9 {
+    width: 90px;
+    height: 38px;
+  }
+
+  .text-block-7 {
+    width: 80px;
+    padding-left: 0px;
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .form-block {
+    width: 90px;
+    height: 70px;
+    margin-top: 252px;
+    margin-left: 8px;
+  }
+
+  .field-label {
+    padding: 2px;
+    font-size: 9px;
+    line-height: 12px;
+  }
+
+  .formok {
+    width: 55px;
+    height: 14px;
+    margin-top: 324px;
+    margin-left: 8px;
+    padding: 2px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .formok.reset {
+    width: 33px;
+    margin-left: 64px;
+    padding: 2px;
+  }
+
+  .formok.resettexte-button {
+    width: 33px;
+    margin-left: 64px;
+    padding: 2px;
+  }
+
+  .input1 {
+    height: 20px;
+    padding: 2px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .input2 {
+    height: 20px;
+    margin-top: -9px;
+    font-size: 10px;
+    line-height: 12px;
+    text-align: center;
+  }
+
+  .uploadpicture_button {
+    left: 85px;
+    top: 122px;
+    width: 38px;
+    height: 38px;
+    margin-right: 0px;
+    background-size: 100% 100%;
+  }
+
+  .div-block-13 {
+    width: 129px;
+    height: 57px;
+  }
+
+  .text-block-8 {
+    width: 118px;
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .colorpalette_button {
+    left: 7px;
+    width: 38px;
+    height: 38px;
+    margin-top: -24px;
+    margin-left: 104px;
+    background-size: 100% 100%;
+  }
+
+  .colorpalette_content {
+    left: -53px;
+    bottom: -15px;
+    width: 160px;
+    height: 40px;
+    margin-top: 0px;
+  }
+
+  .color_container {
+    width: 139px;
+    height: 38px;
+    margin-top: 2px;
+  }
+
+  .colorpalette_wrapper {
+    left: -26px;
+    top: 3px;
+    width: 100px;
+    margin-top: 58px;
+  }
+
+  .screenshot_button {
+    left: 13px;
+    top: 120px;
+    width: 30px;
+    height: 30px;
+    background-size: 100% 100%;
+  }
+
+  .text-block-9 {
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .text-block-10 {
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .text-block-11 {
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .decal_logo_reset_button {
+    left: 85px;
+    top: 163px;
+    width: 38px;
+    height: 17px;
+    margin-right: 0px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .right-panel {
+    left: -3px;
+    top: 15%;
+    width: 0px;
+    height: 315px;
+    margin-right: 114px;
+    padding-top: 0px;
+    -webkit-align-content: center;
+    -ms-flex-line-pack: center;
+    align-content: center;
+  }
+
+  .left-panel {
+    top: -97px;
+    bottom: 0px;
+    width: 100%;
+    min-height: 16%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 0px;
+  }
+
+  .fullscreen-button {
+    left: 94px;
+    width: 27px;
+    height: 27px;
+    margin-top: 2px;
+  }
+
+  .form-block-texteperso {
+    width: 90px;
+    height: 70px;
+    margin-top: 252px;
+    margin-left: 8px;
+  }
+
+  .testwrap {
+    top: 19px;
+    width: 92%;
+    height: 55px;
+  }
+
+  .menu-header-wrapper.bubble-header {
+    width: 114px;
+    font-size: 12px;
+  }
+
+  .menu-header-wrapper.lampe-header-large {
+    display: none;
+    width: 113px;
+  }
+
+  .menu-header-wrapper.option-header {
+    width: 63px;
+    font-size: 12px;
+  }
+
+  .menu-header-wrapper.option-header.option-casque-tag.tag {
+    top: -58%;
+    display: none;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
+  .menu-header-wrapper.option-header.option-nuque-tag.tag {
+    left: 33.5%;
+    top: -58%;
+    display: none;
+    width: 55px;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
+  .menu-header-wrapper.option-header.option-bandes-tag.tag {
+    left: 64%;
+    top: -58%;
+    display: none;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
+  .menu-header-wrapper.lampe-header-medium {
+    width: 113px;
+  }
+
+  .menu-header-wrapper.lampe-header-small {
+    width: 113px;
+    font-size: 12px;
+  }
+
+  .dropdown-texte-classe1 {
+    left: -3px;
+    display: block;
+  }
+
+  .dropdown-texte-classe2-12 {
+    left: -3px;
+    display: none;
+  }
+
+  .dropdown-texte-classe2-25 {
+    left: -3px;
+    display: none;
+  }
+
+  .dropdown-texte-lampestd {
+    display: none;
+  }
+
+  .dropdown-texte-lampedetect {
+    display: none;
+  }
+
+  .optionbutton.casque_antibruit {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .optionbutton.bandesreflect {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .optionbutton.protege_nuque {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .grid {
+    margin-top: 1px;
+    margin-left: 116px;
+    grid-column-gap: 2px;
+    grid-row-gap: 2px;
+  }
+
+  .bubblecasque-button.cl1 {
+    display: none;
+    width: 55px;
+    height: 55px;
+  }
+
+  .bubblecasque-button.cl2_12 {
+    display: none;
+    width: 55px;
+    height: 55px;
+  }
+
+  .bubblecasque-button.cl2_25 {
+    display: none;
+    width: 55px;
+    height: 55px;
+  }
+
+  .barbebutton {
+    display: none;
+    width: 56px;
+    height: 14px;
+    font-size: 10.5px;
+    text-align: center;
+  }
+
+  .grid-2 {
+    margin-top: 0px;
+    margin-left: 98px;
+    grid-column-gap: 11px;
+    grid-row-gap: 2px;
+  }
+
+  .lampestdbutton {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .lampedetectbutton {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .standardtag {
+    display: none;
+    width: 57px;
+    height: 13px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 10px;
+  }
+
+  .detecteurtag {
+    display: none;
+    width: 57px;
+    height: 13px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 10px;
+  }
+
+  .formcontainer {
+    display: none;
+  }
+
+  .formok-copy {
+    width: 55px;
+    height: 14px;
+    margin-top: 324px;
+    margin-left: 8px;
+    padding: 2px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .formok-copy.reset {
+    width: 33px;
+    margin-left: 64px;
+    padding: 2px;
+  }
+
+  .formok-copy.resettexte-button {
+    width: 33px;
+    margin-left: 64px;
+    padding: 2px;
+  }
+
+  .iconedecaltexte {
+    display: none;
+  }
+
+  .grid-3 {
+    grid-auto-flow: column dense;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)) 230px;
+    -ms-grid-rows: minmax(150px, 1fr) auto;
+    grid-template-rows: minmax(150px, 1fr) auto;
+  }
+
+  .grid-4 {
+    margin-top: -9px;
+    margin-left: 46px;
+    grid-column-gap: 6px;
+    -ms-grid-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    -ms-grid-rows: auto;
+    grid-template-rows: auto;
+  }
+
+  .div-block-22 {
+    position: relative;
+    top: 37%;
+    right: 0%;
+    width: 55px;
+    height: 125px;
+    margin-top: 0px;
+    margin-left: 5px;
+  }
+}
+
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 896px) 
+and (-webkit-device-pixel-ratio : 1)
+and (orientation : landscape) { 
+  .html-embed {
+    padding: 0px;
+  }
+
+  .button-3 {
+    left: 0px;
+    top: 49px;
+    width: 60px;
+    height: 60px;
+  }
+
+  .button-4 {
+    left: 0px;
+    top: -18px;
+    width: 60px;
+    height: 60px;
+  }
+
+  .matselector.orange-button {
+    left: 104px;
+    top: 6px;
+    width: 30px;
+    height: 30px;
+    margin-left: 0px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  }
+
+  .matselector.black-button {
+    left: -24px;
+    top: 5px;
+    width: 30px;
+    height: 30px;
+    background-size: 100% 100%;
+  }
+
+  .matselector.blue-button {
+    left: -6px;
+    top: -3px;
+    width: 30px;
+    height: 30px;
+    background-size: 100% 100%;
+  }
+
+  .matselector.green-button {
+    left: 0px;
+    top: 1px;
+    width: 30px;
+    height: 30px;
+    margin-top: 3px;
+    margin-left: 5px;
+    background-size: 100% 100%;
+  }
+
+  .dropdown-wrapper {
+    overflow: visible;
+    width: 90px;
+    height: 70px;
+    margin-top: 0px;
+    margin-left: 8px;
+  }
+
+  .dropdown-trigger {
+    padding: 2px;
+  }
+
+  .text-block {
+    font-size: 9px;
+  }
+
+  .dropdown-content {
+    height: 50px;
+  }
+
+  .dropdown-button._1 {
+    padding: 2px;
+    font-size: 10px;
+    line-height: 13px;
+  }
+
+  .dropdown-button._2 {
+    padding: 2px;
+    font-size: 10px;
+    line-height: 13px;
+  }
+
+  .dropdown-wrapper3 {
+    width: 90px;
+    height: 70px;
+    margin-top: 166px;
+    margin-left: 8px;
+  }
+
+  .dropdown-trigger3 {
+    font-size: 10px;
+  }
+
+  .text-block-3 {
+    padding: 1px;
+    font-size: 9px;
+  }
+
+  .dropdown-content3 {
+    height: 65px;
+  }
+
+  .dropdown-button3 {
+    height: auto;
+    padding: 0px;
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .dropdown-button3.casqueoption_button {
+    display: block;
+    height: auto;
+    padding: 2px;
+  }
+
+  .dropdown-button3.protectnuque_button {
+    display: block;
+    padding: 2px;
+  }
+
+  .dropdown-button3.reflect_button {
+    display: block;
+    padding: 2px;
+  }
+
+  .dropdown-wrapper2 {
+    width: 90px;
+    height: 60px;
+    margin-top: 100px;
+    margin-left: 8px;
+  }
+
+  .dropdown-trigger2 {
+    padding: 1px;
+  }
+
+  .text-block-4 {
+    font-size: 8px;
+    line-height: 10px;
+  }
+
+  .dropdown-content2 {
+    height: 40px;
+  }
+
+  .dropdown-button2 {
+    height: 20%;
+    font-size: 10px;
+  }
+
+  .dropdown-button2.lampestd {
+    height: auto;
+    padding: 2px;
+  }
+
+  .dropdown-button2.lampedetect {
+    height: auto;
+    padding: 2px;
+  }
+
+  .text-block-5 {
+    position: static;
+    margin-top: 0px;
+    margin-left: 0px;
+    float: none;
+    font-size: 10px;
+    line-height: 10px;
+    font-weight: 300;
+  }
+
+  .div-block-6 {
+    width: 90px;
+    height: 25px;
+    margin-top: 71px;
+    margin-left: 8px;
+    padding: 2px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .div-block-7 {
+    width: 57px;
+    height: 18px;
+    margin-top: 17px;
+    margin-left: 90px;
+  }
+
+  .text-block-6 {
+    width: 60px;
+    margin-top: -4px;
+    margin-left: -3px;
+    padding: 0px;
+    font-size: 9px;
+    line-height: 8px;
+    text-align: left;
+  }
+
+  .info_button {
+    left: 85px;
+    top: 80px;
+    width: 38px;
+    height: 38px;
+    margin-right: 0px;
+    background-size: 100% 100%;
+  }
+
+  .div-block-9 {
+    width: 90px;
+    height: 38px;
+  }
+
+  .text-block-7 {
+    width: 80px;
+    padding-left: 0px;
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .form-block {
+    width: 90px;
+    height: 70px;
+    margin-top: 252px;
+    margin-left: 8px;
+  }
+
+  .field-label {
+    padding: 2px;
+    font-size: 9px;
+    line-height: 12px;
+  }
+
+  .formok {
+    width: 55px;
+    height: 14px;
+    margin-top: 324px;
+    margin-left: 8px;
+    padding: 2px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .formok.reset {
+    width: 33px;
+    margin-left: 64px;
+    padding: 2px;
+  }
+
+  .formok.resettexte-button {
+    width: 33px;
+    margin-left: 64px;
+    padding: 2px;
+  }
+
+  .input1 {
+    height: 20px;
+    padding: 2px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .input2 {
+    height: 20px;
+    margin-top: -9px;
+    font-size: 10px;
+    line-height: 12px;
+    text-align: center;
+  }
+
+  .uploadpicture_button {
+    left: 85px;
+    top: 122px;
+    width: 38px;
+    height: 38px;
+    margin-right: 0px;
+    background-size: 100% 100%;
+  }
+
+  .div-block-13 {
+    width: 129px;
+    height: 57px;
+  }
+
+  .text-block-8 {
+    width: 118px;
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .colorpalette_button {
+    left: 7px;
+    width: 38px;
+    height: 38px;
+    margin-top: -24px;
+    margin-left: 104px;
+    background-size: 100% 100%;
+  }
+
+  .colorpalette_content {
+    left: -53px;
+    bottom: -15px;
+    width: 160px;
+    height: 40px;
+    margin-top: 0px;
+  }
+
+  .color_container {
+    width: 139px;
+    height: 38px;
+    margin-top: 2px;
+  }
+
+  .colorpalette_wrapper {
+    left: -26px;
+    top: 3px;
+    width: 100px;
+    margin-top: 58px;
+  }
+
+  .screenshot_button {
+    left: 13px;
+    top: 120px;
+    width: 30px;
+    height: 30px;
+    background-size: 100% 100%;
+  }
+
+  .text-block-9 {
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .text-block-10 {
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .text-block-11 {
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .decal_logo_reset_button {
+    left: 85px;
+    top: 163px;
+    width: 38px;
+    height: 17px;
+    margin-right: 0px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .right-panel {
+    left: -3px;
+    top: 18%;
+    width: 0px;
+    height: 315px;
+    margin-right: 114px;
+    padding-top: 0px;
+    -webkit-align-content: center;
+    -ms-flex-line-pack: center;
+    align-content: center;
+  }
+
+  .left-panel {
+    top: -97px;
+    bottom: 0px;
+    width: 100%;
+    min-height: 16%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 0px;
+  }
+
+  .fullscreen-button {
+    left: 94px;
+    width: 27px;
+    height: 27px;
+    margin-top: 2px;
+  }
+
+  .form-block-texteperso {
+    width: 90px;
+    height: 70px;
+    margin-top: 252px;
+    margin-left: 8px;
+  }
+
+  .testwrap {
+    top: 19px;
+    width: 92%;
+    height: 55px;
+  }
+
+  .menu-header-wrapper.bubble-header {
+    width: 114px;
+    font-size: 12px;
+  }
+
+  .menu-header-wrapper.lampe-header-large {
+    display: none;
+    width: 113px;
+  }
+
+  .menu-header-wrapper.option-header {
+    width: 63px;
+    font-size: 12px;
+  }
+
+  .menu-header-wrapper.option-header.option-casque-tag.tag {
+    top: -58%;
+    display: none;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
+  .menu-header-wrapper.option-header.option-nuque-tag.tag {
+    left: 33.5%;
+    top: -58%;
+    display: none;
+    width: 55px;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
+  .menu-header-wrapper.option-header.option-bandes-tag.tag {
+    left: 64%;
+    top: -58%;
+    display: none;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
+  .menu-header-wrapper.lampe-header-medium {
+    width: 113px;
+  }
+
+  .menu-header-wrapper.lampe-header-small {
+    width: 113px;
+    font-size: 12px;
+  }
+
+  .dropdown-texte-classe1 {
+    left: -3px;
+    display: block;
+  }
+
+  .dropdown-texte-classe2-12 {
+    left: -3px;
+    display: none;
+  }
+
+  .dropdown-texte-classe2-25 {
+    left: -3px;
+    display: none;
+  }
+
+  .dropdown-texte-lampestd {
+    display: none;
+  }
+
+  .dropdown-texte-lampedetect {
+    display: none;
+  }
+
+  .optionbutton.casque_antibruit {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .optionbutton.bandesreflect {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .optionbutton.protege_nuque {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .grid {
+    margin-top: 1px;
+    margin-left: 116px;
+    grid-column-gap: 2px;
+    grid-row-gap: 2px;
+  }
+
+  .bubblecasque-button.cl1 {
+    display: none;
+    width: 55px;
+    height: 55px;
+  }
+
+  .bubblecasque-button.cl2_12 {
+    display: none;
+    width: 55px;
+    height: 55px;
+  }
+
+  .bubblecasque-button.cl2_25 {
+    display: none;
+    width: 55px;
+    height: 55px;
+  }
+
+  .barbebutton {
+    display: none;
+    width: 56px;
+    height: 14px;
+    font-size: 10.5px;
+    text-align: center;
+  }
+
+  .grid-2 {
+    margin-top: 0px;
+    margin-left: 98px;
+    grid-column-gap: 11px;
+    grid-row-gap: 2px;
+  }
+
+  .lampestdbutton {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .lampedetectbutton {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .standardtag {
+    display: none;
+    width: 57px;
+    height: 13px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 10px;
+  }
+
+  .detecteurtag {
+    display: none;
+    width: 57px;
+    height: 13px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 10px;
+  }
+
+  .formcontainer {
+    display: none;
+  }
+
+  .formok-copy {
+    width: 55px;
+    height: 14px;
+    margin-top: 324px;
+    margin-left: 8px;
+    padding: 2px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .formok-copy.reset {
+    width: 33px;
+    margin-left: 64px;
+    padding: 2px;
+  }
+
+  .formok-copy.resettexte-button {
+    width: 33px;
+    margin-left: 64px;
+    padding: 2px;
+  }
+
+  .iconedecaltexte {
+    display: none;
+  }
+
+  .grid-3 {
+    grid-auto-flow: column dense;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)) 230px;
+    -ms-grid-rows: minmax(150px, 1fr) auto;
+    grid-template-rows: minmax(150px, 1fr) auto;
+  }
+
+  .grid-4 {
+    margin-top: -9px;
+    margin-left: 46px;
+    grid-column-gap: 6px;
+    -ms-grid-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    -ms-grid-rows: auto;
+    grid-template-rows: auto;
+  }
+
+  .div-block-22 {
+    position: relative;
+    right: 0%;
+    width: 55px;
+    height: 125px;
+    margin-top: 0px;
+    margin-left: 5px;
+  }
+}
+
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 896px) 
+and (-webkit-device-pixel-ratio : 1)
+and (orientation : landscape) { 
+  .html-embed {
+    padding: 0px;
+  }
+
+  .button-3 {
+    left: 0px;
+    top: 49px;
+    width: 60px;
+    height: 60px;
+  }
+
+  .button-4 {
+    left: 0px;
+    top: -18px;
+    width: 60px;
+    height: 60px;
+  }
+
+  .matselector.orange-button {
+    left: 104px;
+    top: 6px;
+    width: 30px;
+    height: 30px;
+    margin-left: 0px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  }
+
+  .matselector.black-button {
+    left: -24px;
+    top: 5px;
+    width: 30px;
+    height: 30px;
+    background-size: 100% 100%;
+  }
+
+  .matselector.blue-button {
+    left: -6px;
+    top: -3px;
+    width: 30px;
+    height: 30px;
+    background-size: 100% 100%;
+  }
+
+  .matselector.green-button {
+    left: 0px;
+    top: 1px;
+    width: 30px;
+    height: 30px;
+    margin-top: 3px;
+    margin-left: 5px;
+    background-size: 100% 100%;
+  }
+
+  .dropdown-wrapper {
+    overflow: visible;
+    width: 90px;
+    height: 70px;
+    margin-top: 0px;
+    margin-left: 8px;
+  }
+
+  .dropdown-trigger {
+    padding: 2px;
+  }
+
+  .text-block {
+    font-size: 9px;
+  }
+
+  .dropdown-content {
+    height: 50px;
+  }
+
+  .dropdown-button._1 {
+    padding: 2px;
+    font-size: 10px;
+    line-height: 13px;
+  }
+
+  .dropdown-button._2 {
+    padding: 2px;
+    font-size: 10px;
+    line-height: 13px;
+  }
+
+  .dropdown-wrapper3 {
+    width: 90px;
+    height: 70px;
+    margin-top: 166px;
+    margin-left: 8px;
+  }
+
+  .dropdown-trigger3 {
+    font-size: 10px;
+  }
+
+  .text-block-3 {
+    padding: 1px;
+    font-size: 9px;
+  }
+
+  .dropdown-content3 {
+    height: 65px;
+  }
+
+  .dropdown-button3 {
+    height: auto;
+    padding: 0px;
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .dropdown-button3.casqueoption_button {
+    display: block;
+    height: auto;
+    padding: 2px;
+  }
+
+  .dropdown-button3.protectnuque_button {
+    display: block;
+    padding: 2px;
+  }
+
+  .dropdown-button3.reflect_button {
+    display: block;
+    padding: 2px;
+  }
+
+  .dropdown-wrapper2 {
+    width: 90px;
+    height: 60px;
+    margin-top: 100px;
+    margin-left: 8px;
+  }
+
+  .dropdown-trigger2 {
+    padding: 1px;
+  }
+
+  .text-block-4 {
+    font-size: 8px;
+    line-height: 10px;
+  }
+
+  .dropdown-content2 {
+    height: 40px;
+  }
+
+  .dropdown-button2 {
+    height: 20%;
+    font-size: 10px;
+  }
+
+  .dropdown-button2.lampestd {
+    height: auto;
+    padding: 2px;
+  }
+
+  .dropdown-button2.lampedetect {
+    height: auto;
+    padding: 2px;
+  }
+
+  .text-block-5 {
+    position: static;
+    margin-top: 0px;
+    margin-left: 0px;
+    float: none;
+    font-size: 10px;
+    line-height: 10px;
+    font-weight: 300;
+  }
+
+  .div-block-6 {
+    width: 90px;
+    height: 25px;
+    margin-top: 71px;
+    margin-left: 8px;
+    padding: 2px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .div-block-7 {
+    width: 57px;
+    height: 18px;
+    margin-top: 17px;
+    margin-left: 90px;
+  }
+
+  .text-block-6 {
+    width: 60px;
+    margin-top: -4px;
+    margin-left: -3px;
+    padding: 0px;
+    font-size: 9px;
+    line-height: 8px;
+    text-align: left;
+  }
+
+  .info_button {
+    left: 85px;
+    top: 80px;
+    width: 38px;
+    height: 38px;
+    margin-right: 0px;
+    background-size: 100% 100%;
+  }
+
+  .div-block-9 {
+    width: 90px;
+    height: 38px;
+  }
+
+  .text-block-7 {
+    width: 80px;
+    padding-left: 0px;
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .form-block {
+    width: 90px;
+    height: 70px;
+    margin-top: 252px;
+    margin-left: 8px;
+  }
+
+  .field-label {
+    padding: 2px;
+    font-size: 9px;
+    line-height: 12px;
+  }
+
+  .formok {
+    width: 55px;
+    height: 14px;
+    margin-top: 324px;
+    margin-left: 8px;
+    padding: 2px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .formok.reset {
+    width: 33px;
+    margin-left: 64px;
+    padding: 2px;
+  }
+
+  .formok.resettexte-button {
+    width: 33px;
+    margin-left: 64px;
+    padding: 2px;
+  }
+
+  .input1 {
+    height: 20px;
+    padding: 2px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .input2 {
+    height: 20px;
+    margin-top: -9px;
+    font-size: 10px;
+    line-height: 12px;
+    text-align: center;
+  }
+
+  .uploadpicture_button {
+    left: 85px;
+    top: 122px;
+    width: 38px;
+    height: 38px;
+    margin-right: 0px;
+    background-size: 100% 100%;
+  }
+
+  .div-block-13 {
+    width: 129px;
+    height: 57px;
+  }
+
+  .text-block-8 {
+    width: 118px;
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .colorpalette_button {
+    left: 7px;
+    width: 38px;
+    height: 38px;
+    margin-top: -24px;
+    margin-left: 104px;
+    background-size: 100% 100%;
+  }
+
+  .colorpalette_content {
+    left: -53px;
+    bottom: -15px;
+    width: 160px;
+    height: 40px;
+    margin-top: 0px;
+  }
+
+  .color_container {
+    width: 139px;
+    height: 38px;
+    margin-top: 2px;
+  }
+
+  .colorpalette_wrapper {
+    left: -26px;
+    top: 3px;
+    width: 100px;
+    margin-top: 58px;
+  }
+
+  .screenshot_button {
+    left: 13px;
+    top: 120px;
+    width: 30px;
+    height: 30px;
+    background-size: 100% 100%;
+  }
+
+  .text-block-9 {
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .text-block-10 {
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .text-block-11 {
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .decal_logo_reset_button {
+    left: 85px;
+    top: 163px;
+    width: 38px;
+    height: 17px;
+    margin-right: 0px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .right-panel {
+    left: -3px;
+    top: 18%;
+    width: 0px;
+    height: 315px;
+    margin-right: 114px;
+    padding-top: 0px;
+    -webkit-align-content: center;
+    -ms-flex-line-pack: center;
+    align-content: center;
+  }
+
+  .left-panel {
+    top: -97px;
+    bottom: 0px;
+    width: 100%;
+    min-height: 16%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 0px;
+  }
+
+  .fullscreen-button {
+    left: 94px;
+    width: 27px;
+    height: 27px;
+    margin-top: 2px;
+  }
+
+  .form-block-texteperso {
+    width: 90px;
+    height: 70px;
+    margin-top: 252px;
+    margin-left: 8px;
+  }
+
+  .testwrap {
+    top: 19px;
+    width: 92%;
+    height: 55px;
+  }
+
+  .menu-header-wrapper.bubble-header {
+    width: 114px;
+    font-size: 12px;
+  }
+
+  .menu-header-wrapper.lampe-header-large {
+    display: none;
+    width: 113px;
+  }
+
+  .menu-header-wrapper.option-header {
+    width: 63px;
+    font-size: 12px;
+  }
+
+  .menu-header-wrapper.option-header.option-casque-tag.tag {
+    top: -58%;
+    display: none;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
+  .menu-header-wrapper.option-header.option-nuque-tag.tag {
+    left: 33.5%;
+    top: -58%;
+    display: none;
+    width: 55px;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
+  .menu-header-wrapper.option-header.option-bandes-tag.tag {
+    left: 64%;
+    top: -58%;
+    display: none;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
+  .menu-header-wrapper.lampe-header-medium {
+    width: 113px;
+  }
+
+  .menu-header-wrapper.lampe-header-small {
+    width: 113px;
+    font-size: 12px;
+  }
+
+  .dropdown-texte-classe1 {
+    left: -3px;
+    display: block;
+  }
+
+  .dropdown-texte-classe2-12 {
+    left: -3px;
+    display: none;
+  }
+
+  .dropdown-texte-classe2-25 {
+    left: -3px;
+    display: none;
+  }
+
+  .dropdown-texte-lampestd {
+    display: none;
+  }
+
+  .dropdown-texte-lampedetect {
+    display: none;
+  }
+
+  .optionbutton.casque_antibruit {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .optionbutton.bandesreflect {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .optionbutton.protege_nuque {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .grid {
+    margin-top: 1px;
+    margin-left: 116px;
+    grid-column-gap: 2px;
+    grid-row-gap: 2px;
+  }
+
+  .bubblecasque-button.cl1 {
+    display: none;
+    width: 55px;
+    height: 55px;
+  }
+
+  .bubblecasque-button.cl2_12 {
+    display: none;
+    width: 55px;
+    height: 55px;
+  }
+
+  .bubblecasque-button.cl2_25 {
+    display: none;
+    width: 55px;
+    height: 55px;
+  }
+
+  .barbebutton {
+    display: none;
+    width: 56px;
+    height: 14px;
+    font-size: 10.5px;
+    text-align: center;
+  }
+
+  .grid-2 {
+    margin-top: 0px;
+    margin-left: 98px;
+    grid-column-gap: 11px;
+    grid-row-gap: 2px;
+  }
+
+  .lampestdbutton {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .lampedetectbutton {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .standardtag {
+    display: none;
+    width: 57px;
+    height: 13px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 10px;
+  }
+
+  .detecteurtag {
+    display: none;
+    width: 57px;
+    height: 13px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 10px;
+  }
+
+  .formcontainer {
+    display: none;
+  }
+
+  .formok-copy {
+    width: 55px;
+    height: 14px;
+    margin-top: 324px;
+    margin-left: 8px;
+    padding: 2px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .formok-copy.reset {
+    width: 33px;
+    margin-left: 64px;
+    padding: 2px;
+  }
+
+  .formok-copy.resettexte-button {
+    width: 33px;
+    margin-left: 64px;
+    padding: 2px;
+  }
+
+  .iconedecaltexte {
+    display: none;
+  }
+
+  .grid-3 {
+    grid-auto-flow: column dense;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)) 230px;
+    -ms-grid-rows: minmax(150px, 1fr) auto;
+    grid-template-rows: minmax(150px, 1fr) auto;
+  }
+
+  .grid-4 {
+    margin-top: -9px;
+    margin-left: 46px;
+    grid-column-gap: 6px;
+    -ms-grid-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    -ms-grid-rows: auto;
+    grid-template-rows: auto;
+  }
+
+  .div-block-22 {
+    position: relative;
+    right: 0%;
+    width: 55px;
+    height: 125px;
+    margin-top: 0px;
+    margin-left: 5px;
+  }
+}
+
+@media only screen 
+and (min-device-width : 411px) 
+and (max-device-width : 823px)
+and (orientation : landscape) { 
+  .html-embed {
+    padding: 0px;
+  }
+
+  .button-3 {
+    left: 0px;
+    top: 49px;
+    width: 60px;
+    height: 60px;
+  }
+
+  .button-4 {
+    left: 0px;
+    top: -18px;
+    width: 60px;
+    height: 60px;
+  }
+
+  .matselector.orange-button {
+    left: 104px;
+    top: 6px;
+    width: 30px;
+    height: 30px;
+    margin-left: 0px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  }
+
+  .matselector.black-button {
+    left: -24px;
+    top: 5px;
+    width: 30px;
+    height: 30px;
+    background-size: 100% 100%;
+  }
+
+  .matselector.blue-button {
+    left: -6px;
+    top: -3px;
+    width: 30px;
+    height: 30px;
+    background-size: 100% 100%;
+  }
+
+  .matselector.green-button {
+    left: 0px;
+    top: 1px;
+    width: 30px;
+    height: 30px;
+    margin-top: 3px;
+    margin-left: 5px;
+    background-size: 100% 100%;
+  }
+
+  .dropdown-wrapper {
+    overflow: visible;
+    width: 90px;
+    height: 70px;
+    margin-top: 0px;
+    margin-left: 8px;
+  }
+
+  .dropdown-trigger {
+    padding: 2px;
+  }
+
+  .text-block {
+    font-size: 9px;
+  }
+
+  .dropdown-content {
+    height: 50px;
+  }
+
+  .dropdown-button._1 {
+    padding: 2px;
+    font-size: 10px;
+    line-height: 13px;
+  }
+
+  .dropdown-button._2 {
+    padding: 2px;
+    font-size: 10px;
+    line-height: 13px;
+  }
+
+  .dropdown-wrapper3 {
+    width: 90px;
+    height: 70px;
+    margin-top: 166px;
+    margin-left: 8px;
+  }
+
+  .dropdown-trigger3 {
+    font-size: 10px;
+  }
+
+  .text-block-3 {
+    padding: 1px;
+    font-size: 9px;
+  }
+
+  .dropdown-content3 {
+    height: 65px;
+  }
+
+  .dropdown-button3 {
+    height: auto;
+    padding: 0px;
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .dropdown-button3.casqueoption_button {
+    display: block;
+    height: auto;
+    padding: 2px;
+  }
+
+  .dropdown-button3.protectnuque_button {
+    display: block;
+    padding: 2px;
+  }
+
+  .dropdown-button3.reflect_button {
+    display: block;
+    padding: 2px;
+  }
+
+  .dropdown-wrapper2 {
+    width: 90px;
+    height: 60px;
+    margin-top: 100px;
+    margin-left: 8px;
+  }
+
+  .dropdown-trigger2 {
+    padding: 1px;
+  }
+
+  .text-block-4 {
+    font-size: 8px;
+    line-height: 10px;
+  }
+
+  .dropdown-content2 {
+    height: 40px;
+  }
+
+  .dropdown-button2 {
+    height: 20%;
+    font-size: 10px;
+  }
+
+  .dropdown-button2.lampestd {
+    height: auto;
+    padding: 2px;
+  }
+
+  .dropdown-button2.lampedetect {
+    height: auto;
+    padding: 2px;
+  }
+
+  .text-block-5 {
+    position: static;
+    margin-top: 0px;
+    margin-left: 0px;
+    float: none;
+    font-size: 10px;
+    line-height: 10px;
+    font-weight: 300;
+  }
+
+  .div-block-6 {
+    width: 90px;
+    height: 25px;
+    margin-top: 71px;
+    margin-left: 8px;
+    padding: 2px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .div-block-7 {
+    width: 57px;
+    height: 18px;
+    margin-top: 17px;
+    margin-left: 90px;
+  }
+
+  .text-block-6 {
+    width: 60px;
+    margin-top: -4px;
+    margin-left: -3px;
+    padding: 0px;
+    font-size: 9px;
+    line-height: 8px;
+    text-align: left;
+  }
+
+  .info_button {
+    left: 85px;
+    top: 80px;
+    width: 38px;
+    height: 38px;
+    margin-right: 0px;
+    background-size: 100% 100%;
+  }
+
+  .div-block-9 {
+    width: 90px;
+    height: 38px;
+  }
+
+  .text-block-7 {
+    width: 80px;
+    padding-left: 0px;
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .form-block {
+    width: 90px;
+    height: 70px;
+    margin-top: 252px;
+    margin-left: 8px;
+  }
+
+  .field-label {
+    padding: 2px;
+    font-size: 9px;
+    line-height: 12px;
+  }
+
+  .formok {
+    width: 55px;
+    height: 14px;
+    margin-top: 324px;
+    margin-left: 8px;
+    padding: 2px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .formok.reset {
+    width: 33px;
+    margin-left: 64px;
+    padding: 2px;
+  }
+
+  .formok.resettexte-button {
+    width: 33px;
+    margin-left: 64px;
+    padding: 2px;
+  }
+
+  .input1 {
+    height: 20px;
+    padding: 2px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .input2 {
+    height: 20px;
+    margin-top: -9px;
+    font-size: 10px;
+    line-height: 12px;
+    text-align: center;
+  }
+
+  .uploadpicture_button {
+    left: 85px;
+    top: 122px;
+    width: 38px;
+    height: 38px;
+    margin-right: 0px;
+    background-size: 100% 100%;
+  }
+
+  .div-block-13 {
+    width: 129px;
+    height: 57px;
+  }
+
+  .text-block-8 {
+    width: 118px;
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .colorpalette_button {
+    left: 7px;
+    width: 38px;
+    height: 38px;
+    margin-top: -24px;
+    margin-left: 104px;
+    background-size: 100% 100%;
+  }
+
+  .colorpalette_content {
+    left: -53px;
+    bottom: -15px;
+    width: 160px;
+    height: 40px;
+    margin-top: 0px;
+  }
+
+  .color_container {
+    width: 139px;
+    height: 38px;
+    margin-top: 2px;
+  }
+
+  .colorpalette_wrapper {
+    left: -26px;
+    top: 3px;
+    width: 100px;
+    margin-top: 58px;
+  }
+
+  .screenshot_button {
+    left: 13px;
+    top: 120px;
+    width: 30px;
+    height: 30px;
+    background-size: 100% 100%;
+  }
+
+  .text-block-9 {
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .text-block-10 {
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .text-block-11 {
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .decal_logo_reset_button {
+    left: 85px;
+    top: 163px;
+    width: 38px;
+    height: 17px;
+    margin-right: 0px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .right-panel {
+    left: -3px;
+    top: 18%;
+    width: 0px;
+    height: 315px;
+    margin-right: 114px;
+    padding-top: 0px;
+    -webkit-align-content: center;
+    -ms-flex-line-pack: center;
+    align-content: center;
+  }
+
+  .left-panel {
+    top: -97px;
+    bottom: 0px;
+    width: 100%;
+    min-height: 16%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 0px;
+  }
+
+  .fullscreen-button {
+    left: 94px;
+    width: 27px;
+    height: 27px;
+    margin-top: 2px;
+  }
+
+  .form-block-texteperso {
+    width: 90px;
+    height: 70px;
+    margin-top: 252px;
+    margin-left: 8px;
+  }
+
+  .testwrap {
+    top: 19px;
+    width: 92%;
+    height: 55px;
+  }
+
+  .menu-header-wrapper.bubble-header {
+    width: 114px;
+    font-size: 12px;
+  }
+
+  .menu-header-wrapper.lampe-header-large {
+    display: none;
+    width: 113px;
+  }
+
+  .menu-header-wrapper.option-header {
+    width: 63px;
+    font-size: 12px;
+  }
+
+  .menu-header-wrapper.option-header.option-casque-tag.tag {
+    top: -58%;
+    display: none;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
+  .menu-header-wrapper.option-header.option-nuque-tag.tag {
+    left: 33.5%;
+    top: -58%;
+    display: none;
+    width: 55px;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
+  .menu-header-wrapper.option-header.option-bandes-tag.tag {
+    left: 64%;
+    top: -58%;
+    display: none;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
+  .menu-header-wrapper.lampe-header-medium {
+    width: 113px;
+  }
+
+  .menu-header-wrapper.lampe-header-small {
+    width: 113px;
+    font-size: 12px;
+  }
+
+  .dropdown-texte-classe1 {
+    left: -3px;
+    display: block;
+  }
+
+  .dropdown-texte-classe2-12 {
+    left: -3px;
+    display: none;
+  }
+
+  .dropdown-texte-classe2-25 {
+    left: -3px;
+    display: none;
+  }
+
+  .dropdown-texte-lampestd {
+    display: none;
+  }
+
+  .dropdown-texte-lampedetect {
+    display: none;
+  }
+
+  .optionbutton.casque_antibruit {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .optionbutton.bandesreflect {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .optionbutton.protege_nuque {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .grid {
+    margin-top: 1px;
+    margin-left: 116px;
+    grid-column-gap: 2px;
+    grid-row-gap: 2px;
+  }
+
+  .bubblecasque-button.cl1 {
+    display: none;
+    width: 55px;
+    height: 55px;
+  }
+
+  .bubblecasque-button.cl2_12 {
+    display: none;
+    width: 55px;
+    height: 55px;
+  }
+
+  .bubblecasque-button.cl2_25 {
+    display: none;
+    width: 55px;
+    height: 55px;
+  }
+
+  .barbebutton {
+    display: none;
+    width: 56px;
+    height: 14px;
+    font-size: 10.5px;
+    text-align: center;
+  }
+
+  .grid-2 {
+    margin-top: 0px;
+    margin-left: 98px;
+    grid-column-gap: 11px;
+    grid-row-gap: 2px;
+  }
+
+  .lampestdbutton {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .lampedetectbutton {
+    display: none;
+    width: 57px;
+    height: 57px;
+  }
+
+  .standardtag {
+    display: none;
+    width: 57px;
+    height: 13px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 10px;
+  }
+
+  .detecteurtag {
+    display: none;
+    width: 57px;
+    height: 13px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 10px;
+  }
+
+  .formcontainer {
+    display: none;
+  }
+
+  .formok-copy {
+    width: 55px;
+    height: 14px;
+    margin-top: 324px;
+    margin-left: 8px;
+    padding: 2px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .formok-copy.reset {
+    width: 33px;
+    margin-left: 64px;
+    padding: 2px;
+  }
+
+  .formok-copy.resettexte-button {
+    width: 33px;
+    margin-left: 64px;
+    padding: 2px;
+  }
+
+  .iconedecaltexte {
+    display: none;
+  }
+
+  .grid-3 {
+    grid-auto-flow: column dense;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)) 230px;
+    -ms-grid-rows: minmax(150px, 1fr) auto;
+    grid-template-rows: minmax(150px, 1fr) auto;
+  }
+
+  .grid-4 {
+    margin-top: -9px;
+    margin-left: 46px;
+    grid-column-gap: 6px;
+    -ms-grid-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    -ms-grid-rows: auto;
+    grid-template-rows: auto;
+  }
+
+  .div-block-22 {
+    position: relative;
+    right: 0%;
+    width: 55px;
+    height: 125px;
+    margin-top: 0px;
+    margin-left: 5px;
+  }
+}
