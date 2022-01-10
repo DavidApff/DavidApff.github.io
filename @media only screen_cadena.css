@@ -1,0 +1,1627 @@
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 812px)
+and (-webkit-device-pixel-ratio : 3) 
+and (orientation : landscape) {
+  .html-embed {
+    padding: 0px;
+  }
+
+  .left-panel {
+    width: 175px;
+  }
+
+  .formok {
+    font-size: 11px;
+  }
+
+  .reset {
+    font-size: 11px;
+  }
+
+  .field-label {
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .text-field {
+    margin-top: 2px;
+    font-size: 12.75px;
+    line-height: 15px;
+  }
+
+  .cadenastd-button._1 {
+    display: none;
+    width: 75px;
+    height: 75px;
+    border-width: 1px;
+  }
+
+  .cadenastd-button._2 {
+    height: 34px;
+    background-color: transparent;
+  }
+
+  .cadenastd-button._3 {
+    height: 34px;
+    margin-bottom: 6px;
+  }
+
+  .animation_cadenas {
+    left: 178px;
+    top: 30px;
+    width: 30px;
+    height: 230px;
+  }
+
+  .mainwrapper {
+    height: 96%;
+  }
+
+  .cadenadateur-button {
+    display: none;
+    width: 75px;
+    height: 75px;
+    border-width: 1px;
+  }
+
+  .grid-1 {
+    margin-top: 36px;
+  }
+
+  .grid-1.grid-anse {
+    margin-left: 4px;
+    grid-column-gap: 2px;
+  }
+
+  .menu-header-wrapper {
+    height: 30px;
+    padding-top: 0px;
+    font-size: 12px;
+  }
+
+  .menu-header-wrapper.arrow {
+    width: 22px;
+    height: 22px;
+  }
+
+  .menu-header-wrapper.anse-header {
+    width: 175px;
+    height: 30px;
+    font-size: 12px;
+  }
+
+  .menu-header-wrapper.color-header {
+    height: 30px;
+  }
+
+  .dropdown-texte-cadstd {
+    top: 12px;
+    font-size: 11px;
+  }
+
+  .dropdown-texte-caddateur {
+    top: 12px;
+    display: none;
+    padding-top: 2px;
+    font-size: 11px;
+  }
+
+  .dropdown-texte-anse4-38 {
+    top: 14px;
+    display: block;
+    font-size: 11px;
+  }
+
+  .anse-4-5-38._1.plastic {
+    width: 50px;
+    height: 50px;
+    border-width: 1px;
+  }
+
+  .anse-4-5-38._1.metal {
+    width: 50px;
+    height: 50px;
+    border-width: 1px;
+  }
+
+  .div-block-7.anse2 {
+    display: block;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+  }
+
+  .div-block-7.anse3 {
+    left: auto;
+    margin-top: 40px;
+  }
+
+  .anse-4-5-76.plastic {
+    width: 50px;
+    height: 50px;
+    border-width: 1px;
+  }
+
+  .anse-4-5-76.metal {
+    width: 50px;
+    height: 50px;
+    border-width: 1px;
+  }
+
+  .plastic-header {
+    display: none;
+    width: 105px;
+    height: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .metal-header {
+    display: none;
+    width: 105px;
+    height: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .dropdown-texte-matplastic {
+    top: 14px;
+    right: -1.5%;
+    display: block;
+    font-size: 11px;
+  }
+
+  .dropdown-texte-matmetal {
+    top: 14px;
+    right: -1.5%;
+    display: none;
+    font-size: 11px;
+  }
+
+  .color-button._1.redbutton {
+    display: none;
+    width: 32px;
+    height: 32px;
+  }
+
+  .color-button._1.orangebutton {
+    display: none;
+    width: 32px;
+    height: 32px;
+  }
+
+  .color-button._1.bluebutton {
+    display: none;
+    width: 32px;
+    height: 32px;
+  }
+
+  .color-button._1.greenbutton {
+    display: none;
+    width: 32px;
+    height: 32px;
+  }
+
+  .color-button._1.yellowbutton {
+    display: none;
+    width: 32px;
+    height: 32px;
+  }
+
+  .color-button._1.brownbutton {
+    display: none;
+    width: 32px;
+    height: 32px;
+  }
+
+  .color-button._1.blackbutton {
+    display: none;
+    width: 32px;
+    height: 32px;
+  }
+
+  .color-button._1.whitebutto {
+    display: none;
+    width: 32px;
+    height: 32px;
+  }
+
+  .grid-3 {
+    margin-top: 33px;
+    grid-row-gap: 0px;
+    -ms-grid-rows: 0.75fr auto;
+    grid-template-rows: 0.75fr auto;
+  }
+
+  .formgravure {
+    top: 24%;
+    display: none;
+    height: 61px;
+    border-width: 1px;
+  }
+
+  .anse-6-38.plastic {
+    width: 50px;
+    height: 50px;
+    border-width: 1px;
+  }
+
+  .anse-6-76.plastic {
+    width: 50px;
+    height: 50px;
+    border-width: 1px;
+  }
+
+  .anse-4-5-76-copy.plastic {
+    width: 50px;
+    height: 50px;
+    border-width: 1px;
+  }
+
+  .image-3 {
+    margin-top: -23px;
+  }
+
+  .text-block {
+    margin-top: -29px;
+    font-size: 11px;
+  }
+
+  .div-block-8 {
+    width: 175px;
+    height: 37px;
+    background-size: cover;
+  }
+
+  .dropdown-texte-anse4-76 {
+    top: 14px;
+    font-size: 11px;
+  }
+
+  .dropdown-texte-anse6-38 {
+    top: 14px;
+    font-size: 11px;
+  }
+
+  .dropdown-texte-anse6-76 {
+    top: 14px;
+    font-size: 11px;
+  }
+
+  .text-span {
+    display: block;
+    margin-top: -5px;
+    font-size: 12px;
+  }
+
+  .filaire-header {
+    display: none;
+    width: 60px;
+    height: 20px;
+    padding-top: 0px;
+    padding-left: 2px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 10px;
+    line-height: 7px;
+  }
+
+  .ansefilaire._1.filaire {
+    width: 50px;
+    height: 50px;
+    margin-left: -4px;
+    border-width: 1px;
+  }
+
+  .dropdown-texte-matfilaire {
+    top: 14px;
+    right: -11.5%;
+    display: none;
+    font-size: 11px;
+  }
+
+  .dropdown-texte-ansefilaire-1 {
+    top: 14px;
+    display: none;
+    font-size: 11px;
+  }
+
+  .checkmark {
+    display: none;
+    width: 14px;
+    height: 14px;
+  }
+
+  .checkmarkcadena {
+    display: none;
+    width: 16px;
+    height: 16px;
+  }
+
+  .fullscreen-button {
+    left: 181px;
+    width: 25px;
+    height: 25px;
+    background-color: transparent;
+  }
+
+  .div-block-12 {
+    height: 30px;
+  }
+
+  .filaireanim {
+    height: 30px;
+  }
+
+  .filaireanimreset {
+    height: 13px;
+    font-size: 11.5px;
+  }
+
+  .filaireanimopacity {
+    height: 30px;
+  }
+
+  .anseanim {
+    height: 30px;
+  }
+
+  .anseanimopacity {
+    height: 30px;
+  }
+
+  .anseanimreset {
+    height: 13px;
+    font-size: 11.5px;
+  }
+
+  .div-block-13 {
+    height: 30px;
+  }
+
+  .modal_panel {
+    display: none;
+  }
+
+  .modal {
+    height: 410px;
+    border-width: 2px;
+    border-radius: 14px;
+  }
+
+  .modal_heading {
+    left: 207.9965px;
+    top: 36px;
+    margin-top: -46px;
+  }
+
+  .text-block-2 {
+    margin-left: 42px;
+    font-size: 13px;
+  }
+
+  .image-5 {
+    right: -39%;
+    width: 14.5px;
+    margin-left: 0px;
+  }
+
+  .form-block-3 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: -7px;
+  }
+
+  .field-label-3 {
+    width: 90px;
+    margin-bottom: 8px;
+    font-size: 12px;
+    line-height: 13px;
+  }
+
+  .div-block-14 {
+    line-height: 15px;
+  }
+
+  .text-field-2 {
+    width: 230px;
+    height: 25px;
+    margin-bottom: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 12.5px;
+  }
+
+  .submit-button-2 {
+    top: 10px;
+    width: 100px;
+    height: 25px;
+    padding-top: 1px;
+    padding-left: 4px;
+    border-radius: 7px;
+    font-size: 11.5px;
+  }
+
+  .checkbox-label.checkboxkd {
+    font-size: 11px;
+    line-height: 12px;
+  }
+
+  .checkbox-label.checkboxkd-copy {
+    margin-bottom: -3px;
+    font-size: 11px;
+  }
+
+  .checkbox-label.checkboxmetal {
+    font-size: 11px;
+  }
+
+  .checkbox-label.checkboxkdcl {
+    font-size: 11px;
+    line-height: 13px;
+  }
+
+  .checkbox-label.checkboxka {
+    font-size: 11px;
+    line-height: 13px;
+  }
+
+  .div-block-15 {
+    margin-top: 3px;
+    margin-bottom: 3px;
+  }
+
+  .info1 {
+    top: 368.972px;
+    font-size: 11px;
+    line-height: 14px;
+  }
+
+  .info2 {
+    top: 368.972px;
+    font-size: 11px;
+    line-height: 14px;
+  }
+
+  .link {
+    left: 102.997px;
+    top: 317px;
+    font-size: 11px;
+  }
+
+  .text-block-3 {
+    display: none;
+    margin-left: -375px;
+  }
+
+  .watermark_sibille {
+    top: 1%;
+    width: 100px;
+    height: 37.8px;
+  }
+
+  .image-7 {
+    left: 10px;
+    top: -104px;
+    width: 42%;
+  }
+
+  .grid-5 {
+    margin-top: -6px;
+    margin-left: 0px;
+    grid-column-gap: 2px;
+    grid-row-gap: 2px;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
+}
+
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 896px) 
+and (-webkit-device-pixel-ratio : 1)
+and (orientation : landscape) {
+  .html-embed {
+        padding: 0px;
+      }
+    
+      .left-panel {
+        width: 175px;
+      }
+    
+      .formok {
+        font-size: 11px;
+      }
+    
+      .reset {
+        font-size: 11px;
+      }
+    
+      .field-label {
+        font-size: 10px;
+        line-height: 12px;
+      }
+    
+      .text-field {
+        margin-top: 2px;
+        font-size: 12.75px;
+        line-height: 15px;
+      }
+    
+      .cadenastd-button._1 {
+        display: none;
+        width: 75px;
+        height: 75px;
+        border-width: 1px;
+      }
+    
+      .cadenastd-button._2 {
+        height: 34px;
+        background-color: transparent;
+      }
+    
+      .cadenastd-button._3 {
+        height: 34px;
+        margin-bottom: 6px;
+      }
+    
+      .animation_cadenas {
+        left: 178px;
+        top: 30px;
+        width: 30px;
+        height: 230px;
+      }
+    
+      .mainwrapper {
+        height: 96%;
+      }
+    
+      .cadenadateur-button {
+        display: none;
+        width: 75px;
+        height: 75px;
+        border-width: 1px;
+      }
+    
+      .grid-1 {
+        margin-top: 36px;
+      }
+    
+      .grid-1.grid-anse {
+        margin-left: 4px;
+        grid-column-gap: 2px;
+      }
+    
+      .menu-header-wrapper {
+        height: 30px;
+        padding-top: 0px;
+        font-size: 12px;
+      }
+    
+      .menu-header-wrapper.arrow {
+        width: 22px;
+        height: 22px;
+      }
+    
+      .menu-header-wrapper.anse-header {
+        width: 175px;
+        height: 30px;
+        font-size: 12px;
+      }
+    
+      .menu-header-wrapper.color-header {
+        height: 30px;
+      }
+    
+      .dropdown-texte-cadstd {
+        top: 12px;
+        font-size: 11px;
+      }
+    
+      .dropdown-texte-caddateur {
+        top: 12px;
+        display: none;
+        padding-top: 2px;
+        font-size: 11px;
+      }
+    
+      .dropdown-texte-anse4-38 {
+        top: 14px;
+        display: block;
+        font-size: 11px;
+      }
+    
+      .anse-4-5-38._1.plastic {
+        width: 50px;
+        height: 50px;
+        border-width: 1px;
+      }
+    
+      .anse-4-5-38._1.metal {
+        width: 50px;
+        height: 50px;
+        border-width: 1px;
+      }
+    
+      .div-block-7.anse2 {
+        display: block;
+        -webkit-box-pack: center;
+        -webkit-justify-content: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: stretch;
+        -webkit-align-items: stretch;
+        -ms-flex-align: stretch;
+        align-items: stretch;
+      }
+    
+      .div-block-7.anse3 {
+        left: auto;
+        margin-top: 40px;
+      }
+    
+      .anse-4-5-76.plastic {
+        width: 50px;
+        height: 50px;
+        border-width: 1px;
+      }
+    
+      .anse-4-5-76.metal {
+        width: 50px;
+        height: 50px;
+        border-width: 1px;
+      }
+    
+      .plastic-header {
+        display: none;
+        width: 105px;
+        height: 10px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        -ms-flex-align: center;
+        align-items: center;
+        font-size: 10px;
+        line-height: 10px;
+      }
+    
+      .metal-header {
+        display: none;
+        width: 105px;
+        height: 10px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        -ms-flex-align: center;
+        align-items: center;
+        font-size: 10px;
+        line-height: 10px;
+      }
+    
+      .dropdown-texte-matplastic {
+        top: 14px;
+        right: -1.5%;
+        display: block;
+        font-size: 11px;
+      }
+    
+      .dropdown-texte-matmetal {
+        top: 14px;
+        right: -1.5%;
+        display: none;
+        font-size: 11px;
+      }
+    
+      .color-button._1.redbutton {
+        display: none;
+        width: 32px;
+        height: 32px;
+      }
+    
+      .color-button._1.orangebutton {
+        display: none;
+        width: 32px;
+        height: 32px;
+      }
+    
+      .color-button._1.bluebutton {
+        display: none;
+        width: 32px;
+        height: 32px;
+      }
+    
+      .color-button._1.greenbutton {
+        display: none;
+        width: 32px;
+        height: 32px;
+      }
+    
+      .color-button._1.yellowbutton {
+        display: none;
+        width: 32px;
+        height: 32px;
+      }
+    
+      .color-button._1.brownbutton {
+        display: none;
+        width: 32px;
+        height: 32px;
+      }
+    
+      .color-button._1.blackbutton {
+        display: none;
+        width: 32px;
+        height: 32px;
+      }
+    
+      .color-button._1.whitebutto {
+        display: none;
+        width: 32px;
+        height: 32px;
+      }
+    
+      .grid-3 {
+        margin-top: 33px;
+        grid-row-gap: 0px;
+        -ms-grid-rows: 0.75fr auto;
+        grid-template-rows: 0.75fr auto;
+      }
+    
+      .formgravure {
+        top: 24%;
+        display: none;
+        height: 61px;
+        border-width: 1px;
+      }
+    
+      .anse-6-38.plastic {
+        width: 50px;
+        height: 50px;
+        border-width: 1px;
+      }
+    
+      .anse-6-76.plastic {
+        width: 50px;
+        height: 50px;
+        border-width: 1px;
+      }
+    
+      .anse-4-5-76-copy.plastic {
+        width: 50px;
+        height: 50px;
+        border-width: 1px;
+      }
+    
+      .image-3 {
+        margin-top: -23px;
+      }
+    
+      .text-block {
+        margin-top: -29px;
+        font-size: 11px;
+      }
+    
+      .div-block-8 {
+        width: 175px;
+        height: 37px;
+        background-size: cover;
+      }
+    
+      .dropdown-texte-anse4-76 {
+        top: 14px;
+        font-size: 11px;
+      }
+    
+      .dropdown-texte-anse6-38 {
+        top: 14px;
+        font-size: 11px;
+      }
+    
+      .dropdown-texte-anse6-76 {
+        top: 14px;
+        font-size: 11px;
+      }
+    
+      .text-span {
+        display: block;
+        margin-top: -5px;
+        font-size: 12px;
+      }
+    
+      .filaire-header {
+        display: none;
+        width: 60px;
+        height: 20px;
+        padding-top: 0px;
+        padding-left: 2px;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        -ms-flex-align: center;
+        align-items: center;
+        font-size: 10px;
+        line-height: 7px;
+      }
+    
+      .ansefilaire._1.filaire {
+        width: 50px;
+        height: 50px;
+        margin-left: -4px;
+        border-width: 1px;
+      }
+    
+      .dropdown-texte-matfilaire {
+        top: 14px;
+        right: -11.5%;
+        display: none;
+        font-size: 11px;
+      }
+    
+      .dropdown-texte-ansefilaire-1 {
+        top: 14px;
+        display: none;
+        font-size: 11px;
+      }
+    
+      .checkmark {
+        display: none;
+        width: 14px;
+        height: 14px;
+      }
+    
+      .checkmarkcadena {
+        display: none;
+        width: 16px;
+        height: 16px;
+      }
+    
+      .fullscreen-button {
+        left: 181px;
+        width: 25px;
+        height: 25px;
+        background-color: transparent;
+      }
+    
+      .div-block-12 {
+        height: 30px;
+      }
+    
+      .filaireanim {
+        height: 30px;
+      }
+    
+      .filaireanimreset {
+        height: 13px;
+        font-size: 11.5px;
+      }
+    
+      .filaireanimopacity {
+        height: 30px;
+      }
+    
+      .anseanim {
+        height: 30px;
+      }
+    
+      .anseanimopacity {
+        height: 30px;
+      }
+    
+      .anseanimreset {
+        height: 13px;
+        font-size: 11.5px;
+      }
+    
+      .div-block-13 {
+        height: 30px;
+      }
+    
+      .modal_panel {
+        display: none;
+      }
+    
+      .modal {
+        height: 410px;
+        border-width: 2px;
+        border-radius: 14px;
+      }
+    
+      .modal_heading {
+        left: 207.9965px;
+        top: 36px;
+        margin-top: -46px;
+      }
+    
+      .text-block-2 {
+        margin-left: 42px;
+        font-size: 13px;
+      }
+    
+      .image-5 {
+        right: -39%;
+        width: 14.5px;
+        margin-left: 0px;
+      }
+    
+      .form-block-3 {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        margin-bottom: -7px;
+      }
+    
+      .field-label-3 {
+        width: 90px;
+        margin-bottom: 8px;
+        font-size: 12px;
+        line-height: 13px;
+      }
+    
+      .div-block-14 {
+        line-height: 15px;
+      }
+    
+      .text-field-2 {
+        width: 230px;
+        height: 25px;
+        margin-bottom: 5px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        font-size: 12.5px;
+      }
+    
+      .submit-button-2 {
+        top: 10px;
+        width: 100px;
+        height: 25px;
+        padding-top: 1px;
+        padding-left: 4px;
+        border-radius: 7px;
+        font-size: 11.5px;
+      }
+    
+      .checkbox-label.checkboxkd {
+        font-size: 11px;
+        line-height: 12px;
+      }
+    
+      .checkbox-label.checkboxkd-copy {
+        margin-bottom: -3px;
+        font-size: 11px;
+      }
+    
+      .checkbox-label.checkboxmetal {
+        font-size: 11px;
+      }
+    
+      .checkbox-label.checkboxkdcl {
+        font-size: 11px;
+        line-height: 13px;
+      }
+    
+      .checkbox-label.checkboxka {
+        font-size: 11px;
+        line-height: 13px;
+      }
+    
+      .div-block-15 {
+        margin-top: 3px;
+        margin-bottom: 3px;
+      }
+    
+      .info1 {
+        top: 368.972px;
+        font-size: 11px;
+        line-height: 14px;
+      }
+    
+      .info2 {
+        top: 368.972px;
+        font-size: 11px;
+        line-height: 14px;
+      }
+    
+      .link {
+        left: 102.997px;
+        top: 317px;
+        font-size: 11px;
+      }
+    
+      .text-block-3 {
+        display: none;
+        margin-left: -375px;
+      }
+    
+      .watermark_sibille {
+        top: 1%;
+        width: 100px;
+        height: 37.8px;
+      }
+    
+      .image-7 {
+        left: 10px;
+        top: -104px;
+        width: 42%;
+      }
+    
+      .grid-5 {
+        margin-top: -6px;
+        margin-left: 0px;
+        grid-column-gap: 2px;
+        grid-row-gap: 2px;
+        -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+        -ms-grid-rows: auto auto;
+        grid-template-rows: auto auto;
+      }
+    }    
+
+    @media only screen 
+and (min-device-width : 411px) 
+and (max-device-width : 823px)
+and (orientation : landscape) { 
+  .html-embed {
+    padding: 0px;
+  }
+  .html-embed {
+    padding: 0px;
+  }
+
+  .left-panel {
+    width: 175px;
+  }
+
+  .formok {
+    font-size: 11px;
+  }
+
+  .reset {
+    font-size: 11px;
+  }
+
+  .field-label {
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .text-field {
+    margin-top: 2px;
+    font-size: 12.75px;
+    line-height: 15px;
+  }
+
+  .cadenastd-button._1 {
+    display: none;
+    width: 75px;
+    height: 75px;
+    border-width: 1px;
+  }
+
+  .cadenastd-button._2 {
+    height: 34px;
+    background-color: transparent;
+  }
+
+  .cadenastd-button._3 {
+    height: 34px;
+    margin-bottom: 6px;
+  }
+
+  .animation_cadenas {
+    left: 178px;
+    top: 30px;
+    width: 30px;
+    height: 230px;
+  }
+
+  .mainwrapper {
+    height: 96%;
+  }
+
+  .cadenadateur-button {
+    display: none;
+    width: 75px;
+    height: 75px;
+    border-width: 1px;
+  }
+
+  .grid-1 {
+    margin-top: 36px;
+  }
+
+  .grid-1.grid-anse {
+    margin-left: 4px;
+    grid-column-gap: 2px;
+  }
+
+  .menu-header-wrapper {
+    height: 30px;
+    padding-top: 0px;
+    font-size: 12px;
+  }
+
+  .menu-header-wrapper.arrow {
+    width: 22px;
+    height: 22px;
+  }
+
+  .menu-header-wrapper.anse-header {
+    width: 175px;
+    height: 30px;
+    font-size: 12px;
+  }
+
+  .menu-header-wrapper.color-header {
+    height: 30px;
+  }
+
+  .dropdown-texte-cadstd {
+    top: 12px;
+    font-size: 11px;
+  }
+
+  .dropdown-texte-caddateur {
+    top: 12px;
+    display: none;
+    padding-top: 2px;
+    font-size: 11px;
+  }
+
+  .dropdown-texte-anse4-38 {
+    top: 14px;
+    display: block;
+    font-size: 11px;
+  }
+
+  .anse-4-5-38._1.plastic {
+    width: 50px;
+    height: 50px;
+    border-width: 1px;
+  }
+
+  .anse-4-5-38._1.metal {
+    width: 50px;
+    height: 50px;
+    border-width: 1px;
+  }
+
+  .div-block-7.anse2 {
+    display: block;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+  }
+
+  .div-block-7.anse3 {
+    left: auto;
+    margin-top: 40px;
+  }
+
+  .anse-4-5-76.plastic {
+    width: 50px;
+    height: 50px;
+    border-width: 1px;
+  }
+
+  .anse-4-5-76.metal {
+    width: 50px;
+    height: 50px;
+    border-width: 1px;
+  }
+
+  .plastic-header {
+    display: none;
+    width: 105px;
+    height: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .metal-header {
+    display: none;
+    width: 105px;
+    height: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 10px;
+    line-height: 10px;
+  }
+
+  .dropdown-texte-matplastic {
+    top: 14px;
+    right: -1.5%;
+    display: block;
+    font-size: 11px;
+  }
+
+  .dropdown-texte-matmetal {
+    top: 14px;
+    right: -1.5%;
+    display: none;
+    font-size: 11px;
+  }
+
+  .color-button._1.redbutton {
+    display: none;
+    width: 32px;
+    height: 32px;
+  }
+
+  .color-button._1.orangebutton {
+    display: none;
+    width: 32px;
+    height: 32px;
+  }
+
+  .color-button._1.bluebutton {
+    display: none;
+    width: 32px;
+    height: 32px;
+  }
+
+  .color-button._1.greenbutton {
+    display: none;
+    width: 32px;
+    height: 32px;
+  }
+
+  .color-button._1.yellowbutton {
+    display: none;
+    width: 32px;
+    height: 32px;
+  }
+
+  .color-button._1.brownbutton {
+    display: none;
+    width: 32px;
+    height: 32px;
+  }
+
+  .color-button._1.blackbutton {
+    display: none;
+    width: 32px;
+    height: 32px;
+  }
+
+  .color-button._1.whitebutto {
+    display: none;
+    width: 32px;
+    height: 32px;
+  }
+
+  .grid-3 {
+    margin-top: 33px;
+    grid-row-gap: 0px;
+    -ms-grid-rows: 0.75fr auto;
+    grid-template-rows: 0.75fr auto;
+  }
+
+  .formgravure {
+    top: 24%;
+    display: none;
+    height: 61px;
+    border-width: 1px;
+  }
+
+  .anse-6-38.plastic {
+    width: 50px;
+    height: 50px;
+    border-width: 1px;
+  }
+
+  .anse-6-76.plastic {
+    width: 50px;
+    height: 50px;
+    border-width: 1px;
+  }
+
+  .anse-4-5-76-copy.plastic {
+    width: 50px;
+    height: 50px;
+    border-width: 1px;
+  }
+
+  .image-3 {
+    margin-top: -23px;
+  }
+
+  .text-block {
+    margin-top: -29px;
+    font-size: 11px;
+  }
+
+  .div-block-8 {
+    width: 175px;
+    height: 37px;
+    background-size: cover;
+  }
+
+  .dropdown-texte-anse4-76 {
+    top: 14px;
+    font-size: 11px;
+  }
+
+  .dropdown-texte-anse6-38 {
+    top: 14px;
+    font-size: 11px;
+  }
+
+  .dropdown-texte-anse6-76 {
+    top: 14px;
+    font-size: 11px;
+  }
+
+  .text-span {
+    display: block;
+    margin-top: -5px;
+    font-size: 12px;
+  }
+
+  .filaire-header {
+    display: none;
+    width: 60px;
+    height: 20px;
+    padding-top: 0px;
+    padding-left: 2px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 10px;
+    line-height: 7px;
+  }
+
+  .ansefilaire._1.filaire {
+    width: 50px;
+    height: 50px;
+    margin-left: -4px;
+    border-width: 1px;
+  }
+
+  .dropdown-texte-matfilaire {
+    top: 14px;
+    right: -11.5%;
+    display: none;
+    font-size: 11px;
+  }
+
+  .dropdown-texte-ansefilaire-1 {
+    top: 14px;
+    display: none;
+    font-size: 11px;
+  }
+
+  .checkmark {
+    display: none;
+    width: 14px;
+    height: 14px;
+  }
+
+  .checkmarkcadena {
+    display: none;
+    width: 16px;
+    height: 16px;
+  }
+
+  .fullscreen-button {
+    left: 181px;
+    width: 25px;
+    height: 25px;
+    background-color: transparent;
+  }
+
+  .div-block-12 {
+    height: 30px;
+  }
+
+  .filaireanim {
+    height: 30px;
+  }
+
+  .filaireanimreset {
+    height: 13px;
+    font-size: 11.5px;
+  }
+
+  .filaireanimopacity {
+    height: 30px;
+  }
+
+  .anseanim {
+    height: 30px;
+  }
+
+  .anseanimopacity {
+    height: 30px;
+  }
+
+  .anseanimreset {
+    height: 13px;
+    font-size: 11.5px;
+  }
+
+  .div-block-13 {
+    height: 30px;
+  }
+
+  .modal_panel {
+    display: none;
+  }
+
+  .modal {
+    height: 410px;
+    border-width: 2px;
+    border-radius: 14px;
+  }
+
+  .modal_heading {
+    left: 207.9965px;
+    top: 36px;
+    margin-top: -46px;
+  }
+
+  .text-block-2 {
+    margin-left: 42px;
+    font-size: 13px;
+  }
+
+  .image-5 {
+    right: -39%;
+    width: 14.5px;
+    margin-left: 0px;
+  }
+
+  .form-block-3 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: -7px;
+  }
+
+  .field-label-3 {
+    width: 90px;
+    margin-bottom: 8px;
+    font-size: 12px;
+    line-height: 13px;
+  }
+
+  .div-block-14 {
+    line-height: 15px;
+  }
+
+  .text-field-2 {
+    width: 230px;
+    height: 25px;
+    margin-bottom: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 12.5px;
+  }
+
+  .submit-button-2 {
+    top: 10px;
+    width: 100px;
+    height: 25px;
+    padding-top: 1px;
+    padding-left: 4px;
+    border-radius: 7px;
+    font-size: 11.5px;
+  }
+
+  .checkbox-label.checkboxkd {
+    font-size: 11px;
+    line-height: 12px;
+  }
+
+  .checkbox-label.checkboxkd-copy {
+    margin-bottom: -3px;
+    font-size: 11px;
+  }
+
+  .checkbox-label.checkboxmetal {
+    font-size: 11px;
+  }
+
+  .checkbox-label.checkboxkdcl {
+    font-size: 11px;
+    line-height: 13px;
+  }
+
+  .checkbox-label.checkboxka {
+    font-size: 11px;
+    line-height: 13px;
+  }
+
+  .div-block-15 {
+    margin-top: 3px;
+    margin-bottom: 3px;
+  }
+
+  .info1 {
+    top: 368.972px;
+    font-size: 11px;
+    line-height: 14px;
+  }
+
+  .info2 {
+    top: 368.972px;
+    font-size: 11px;
+    line-height: 14px;
+  }
+
+  .link {
+    left: 102.997px;
+    top: 317px;
+    font-size: 11px;
+  }
+
+  .text-block-3 {
+    display: none;
+    margin-left: -375px;
+  }
+
+  .watermark_sibille {
+    top: 1%;
+    width: 100px;
+    height: 37.8px;
+  }
+
+  .image-7 {
+    left: 10px;
+    top: -104px;
+    width: 42%;
+  }
+
+  .grid-5 {
+    margin-top: -6px;
+    margin-left: 0px;
+    grid-column-gap: 2px;
+    grid-row-gap: 2px;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
+}
